@@ -10,7 +10,7 @@ Coordination repo for the Mova mobile app ecosystem. Creates symlinks to compone
 
 ## Documentation
 
-See [CLAUDE.md](./CLAUDE.md) for:
+See [CONTEXT.md](./CONTEXT.md) for:
 - Component relationships and dependency graph
 - How to propagate changes to production
 - Container build overview
